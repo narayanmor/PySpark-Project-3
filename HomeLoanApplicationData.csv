@@ -1,0 +1,61 @@
+CustomerName,DOB,UIN,MailID,PhoneNumber,City,State,LivingStatus,PinCode,LoanAmount
+Aarav,01-01-1971,UIN0001,aarav1@mail.com,3300000000,Mumbai,Maharashtra,BPL,400001,23000
+Aditi,23-06-1971,UIN0002,aditi2@mail.com,3300013721,Pune,Maharashtra,APL,411001,24250
+Akash,13-12-1971,UIN0003,akash3@mail.com,3300027442,Nagpur,Maharashtra,APL,440001,25500
+Ananya,03-06-1972,UIN0004,ananya4@mail.com,3300041163,Nashik,Maharashtra,APL,422001,26750
+Arjun,23-11-1972,UIN0005,arjun5@mail.com,3300054884,Ahmedabad,Gujarat,APL,380001,28000
+Bhavna,15-05-1973,UIN0006,bhavna6@mail.com,3300068605,Surat,Gujarat,BPL,395001,29250
+Chetan,04-11-1973,UIN0007,chetan7@mail.com,3300082326,Vadodara,Gujarat,APL,390001,30500
+Deepa,26-04-1974,UIN0008,deepa8@mail.com,3300096047,Bengaluru,Karnataka,APL,560001,31750
+Dev,16-10-1974,UIN0009,dev9@mail.com,3300109768,Mysuru,Karnataka,APL,570001,33000
+Divya,07-04-1975,UIN0010,divya10@mail.com,3300123489,Chennai,Tamil Nadu,APL,600001,34250
+Gaurav,27-09-1975,UIN0011,gaurav11@mail.com,3300137210,Coimbatore,Tamil Nadu,BPL,641001,35500
+Isha,18-03-1976,UIN0012,isha12@mail.com,3300150931,Hyderabad,Telangana,APL,500001,36750
+Karan,07-09-1976,UIN0013,karan13@mail.com,3300164652,Thiruvananthapuram,Kerala,APL,695001,38000
+Kavita,27-02-1977,UIN0014,kavita14@mail.com,3300178373,Kochi,Kerala,APL,682001,39250
+Kiran,19-08-1977,UIN0015,kiran15@mail.com,3300192094,Kolkata,West Bengal,APL,700001,40500
+Manish,08-02-1978,UIN0016,manish16@mail.com,3300205815,Jaipur,Rajasthan,BPL,302001,41750
+Meera,31-07-1978,UIN0017,meera17@mail.com,3300219536,Lucknow,Uttar Pradesh,APL,226001,43000
+Mohit,20-01-1979,UIN0018,mohit18@mail.com,3300233257,Bhopal,Madhya Pradesh,APL,462001,44250
+Neha,12-07-1979,UIN0019,neha19@mail.com,3300246978,Bhubaneswar,Odisha,APL,751001,45500
+Nikhil,01-01-1980,UIN0020,nikhil20@mail.com,3300260699,Patna,Bihar,APL,800001,46750
+Pooja,22-06-1980,UIN0021,pooja21@mail.com,3300274420,Mumbai,Maharashtra,BPL,400001,48000
+Rahul,12-12-1980,UIN0022,rahul22@mail.com,3300288141,Pune,Maharashtra,APL,411001,49250
+Rakesh,03-06-1981,UIN0023,rakesh23@mail.com,3300301862,Nagpur,Maharashtra,APL,440001,50500
+Riya,23-11-1981,UIN0024,riya24@mail.com,3300315583,Nashik,Maharashtra,APL,422001,51750
+Rohit,15-05-1982,UIN0025,rohit25@mail.com,3300329304,Ahmedabad,Gujarat,APL,380001,53000
+Sakshi,04-11-1982,UIN0026,sakshi26@mail.com,3300343025,Surat,Gujarat,BPL,395001,54250
+Sameer,26-04-1983,UIN0027,sameer27@mail.com,3300356746,Vadodara,Gujarat,APL,390001,55500
+Shivani,16-10-1983,UIN0028,shivani28@mail.com,3300370467,Bengaluru,Karnataka,APL,560001,56750
+Shubham,06-04-1984,UIN0029,shubham29@mail.com,3300384188,Mysuru,Karnataka,APL,570001,58000
+Sneha,26-09-1984,UIN0030,sneha30@mail.com,3300397909,Chennai,Tamil Nadu,APL,600001,59250
+Sonia,18-03-1985,UIN0031,sonia31@mail.com,3300411630,Coimbatore,Tamil Nadu,BPL,641001,60500
+Suresh,07-09-1985,UIN0032,suresh32@mail.com,3300425351,Hyderabad,Telangana,APL,500001,61750
+Tanvi,27-02-1986,UIN0033,tanvi33@mail.com,3300439072,Thiruvananthapuram,Kerala,APL,695001,63000
+Varun,19-08-1986,UIN0034,varun34@mail.com,3300452793,Kochi,Kerala,APL,682001,64250
+Vikas,08-02-1987,UIN0035,vikas35@mail.com,3300466514,Kolkata,West Bengal,APL,700001,65500
+Vivek,31-07-1987,UIN0036,vivek36@mail.com,3300480235,Jaipur,Rajasthan,BPL,302001,66750
+Yash,20-01-1988,UIN0037,yash37@mail.com,3300493956,Lucknow,Uttar Pradesh,APL,226001,68000
+Zoya,11-07-1988,UIN0038,zoya38@mail.com,3300507677,Bhopal,Madhya Pradesh,APL,462001,69250
+Aditya,31-12-1988,UIN0039,aditya39@mail.com,3300521398,Bhubaneswar,Odisha,APL,751001,70500
+Priya,22-06-1989,UIN0040,priya40@mail.com,3300535119,Patna,Bihar,APL,800001,71750
+Nitin,12-12-1989,UIN0041,nitin41@mail.com,3300548840,Mumbai,Maharashtra,BPL,400001,73000
+Pallavi,03-06-1990,UIN0042,pallavi42@mail.com,3300562561,Pune,Maharashtra,APL,411001,74250
+Raj,23-11-1990,UIN0043,raj43@mail.com,3300576282,Nagpur,Maharashtra,APL,440001,75500
+Simran,15-05-1991,UIN0044,simran44@mail.com,3300590003,Nashik,Maharashtra,APL,422001,76750
+Ankit,04-11-1991,UIN0045,ankit45@mail.com,3300603724,Ahmedabad,Gujarat,APL,380001,78000
+Komal,25-04-1992,UIN0046,komal46@mail.com,3300617445,Surat,Gujarat,BPL,395001,79250
+Madhuri,15-10-1992,UIN0047,madhuri47@mail.com,3300631166,Vadodara,Gujarat,APL,390001,80500
+Pranav,12-05-1971,UIN0048,pranav48@mail.com,3300644887,Bengaluru,Karnataka,APL,560001,81750
+Rohan,01-11-1971,UIN0049,rohan49@mail.com,3300658608,Mysuru,Karnataka,APL,570001,83000
+Swati,22-04-1972,UIN0050,swati50@mail.com,3300672329,Chennai,Tamil Nadu,APL,600001,84250
+Vishal,12-10-1972,UIN0051,vishal51@mail.com,3300686050,Coimbatore,Tamil Nadu,BPL,641001,85500
+Payal,03-04-1973,UIN0052,payal52@mail.com,3300699771,Hyderabad,Telangana,APL,500001,86750
+Aarav,23-09-1973,UIN0053,aarav53@mail.com,3300713492,Thiruvananthapuram,Kerala,APL,695001,88000
+Aditi,15-03-1974,UIN0054,aditi54@mail.com,3300727213,Kochi,Kerala,APL,682001,89250
+Akash,04-09-1974,UIN0055,akash55@mail.com,3300740934,Kolkata,West Bengal,APL,700001,90500
+Ananya,24-02-1975,UIN0056,ananya56@mail.com,3300754655,Jaipur,Rajasthan,BPL,302001,91750
+Arjun,16-08-1975,UIN0057,arjun57@mail.com,3300768376,Lucknow,Uttar Pradesh,APL,226001,93000
+Bhavna,05-02-1976,UIN0058,bhavna58@mail.com,3300782097,Bhopal,Madhya Pradesh,APL,462001,94250
+Chetan,27-07-1976,UIN0059,chetan59@mail.com,3300795818,Bhubaneswar,Odisha,APL,751001,95500
+Deepa,16-01-1977,UIN0060,deepa60@mail.com,3300809539,Patna,Bihar,APL,800001,96750

@@ -1,0 +1,61 @@
+CustomerName,DOB,UIN,City,State,PinCode,CibilScore,DefaulterFlag
+Aarav,01-01-1971,UIN0001,Mumbai,Maharashtra,400001,3530,N
+Aditi,23-06-1971,UIN0002,Pune,Maharashtra,411001,5120,N
+Akash,13-12-1971,UIN0003,Nagpur,Maharashtra,440001,6240,N
+Ananya,03-06-1972,UIN0004,Nashik,Maharashtra,422001,7010,N
+Arjun,23-11-1972,UIN0005,Ahmedabad,Gujarat,380001,7420,N
+Bhavna,15-05-1973,UIN0006,Surat,Gujarat,395001,7810,N
+Chetan,04-11-1973,UIN0007,Vadodara,Gujarat,390001,8200,N
+Deepa,26-04-1974,UIN0008,Bengaluru,Karnataka,560001,6890,N
+Dev,16-10-1974,UIN0009,Mysuru,Karnataka,570001,4100,Y
+Divya,07-04-1975,UIN0010,Chennai,Tamil Nadu,600001,7350,N
+Gaurav,27-09-1975,UIN0011,Coimbatore,Tamil Nadu,641001,3530,N
+Isha,18-03-1976,UIN0012,Hyderabad,Telangana,500001,5120,N
+Karan,07-09-1976,UIN0013,Thiruvananthapuram,Kerala,695001,6240,N
+Kavita,27-02-1977,UIN0014,Kochi,Kerala,682001,7010,N
+Kiran,19-08-1977,UIN0015,Kolkata,West Bengal,700001,7420,N
+Manish,08-02-1978,UIN0016,Jaipur,Rajasthan,302001,7810,N
+Meera,31-07-1978,UIN0017,Lucknow,Uttar Pradesh,226001,8200,N
+Mohit,20-01-1979,UIN0018,Bhopal,Madhya Pradesh,462001,6890,N
+Neha,12-07-1979,UIN0019,Bhubaneswar,Odisha,751001,4100,N
+Nikhil,01-01-1980,UIN0020,Patna,Bihar,800001,7350,Y
+Pooja,22-06-1980,UIN0021,Mumbai,Maharashtra,400001,3530,N
+Rahul,12-12-1980,UIN0022,Pune,Maharashtra,411001,5120,N
+Rakesh,03-06-1981,UIN0023,Nagpur,Maharashtra,440001,6240,N
+Riya,23-11-1981,UIN0024,Nashik,Maharashtra,422001,7010,N
+Rohit,15-05-1982,UIN0025,Ahmedabad,Gujarat,380001,7420,N
+Sakshi,04-11-1982,UIN0026,Surat,Gujarat,395001,7810,N
+Sameer,26-04-1983,UIN0027,Vadodara,Gujarat,390001,8200,N
+Shivani,16-10-1983,UIN0028,Bengaluru,Karnataka,560001,6890,N
+Shubham,06-04-1984,UIN0029,Mysuru,Karnataka,570001,4100,N
+Sneha,26-09-1984,UIN0030,Chennai,Tamil Nadu,600001,7350,N
+Sonia,18-03-1985,UIN0031,Coimbatore,Tamil Nadu,641001,3530,N
+Suresh,07-09-1985,UIN0032,Hyderabad,Telangana,500001,5120,Y
+Tanvi,27-02-1986,UIN0033,Thiruvananthapuram,Kerala,695001,6240,N
+Varun,19-08-1986,UIN0034,Kochi,Kerala,682001,7010,N
+Vikas,08-02-1987,UIN0035,Kolkata,West Bengal,700001,7420,N
+Vivek,31-07-1987,UIN0036,Jaipur,Rajasthan,302001,7810,N
+Yash,20-01-1988,UIN0037,Lucknow,Uttar Pradesh,226001,8200,N
+Zoya,11-07-1988,UIN0038,Bhopal,Madhya Pradesh,462001,6890,N
+Aditya,31-12-1988,UIN0039,Bhubaneswar,Odisha,751001,4100,N
+Priya,22-06-1989,UIN0040,Patna,Bihar,800001,7350,N
+Payal,08-07-1977,UIN0041,Bengaluru,Karnataka,560001,3530,N
+Aarav,28-12-1977,UIN0042,Mysuru,Karnataka,570001,5120,N
+Aditi,19-06-1978,UIN0043,Chennai,Tamil Nadu,600001,6240,N
+Akash,09-12-1978,UIN0044,Coimbatore,Tamil Nadu,641001,7010,N
+Ananya,31-05-1979,UIN0045,Hyderabad,Telangana,500001,7420,Y
+Arjun,20-11-1979,UIN0046,Thiruvananthapuram,Kerala,695001,7810,N
+Bhavna,11-05-1980,UIN0047,Kochi,Kerala,682001,8200,N
+Chetan,31-10-1980,UIN0048,Kolkata,West Bengal,700001,6890,N
+Deepa,22-04-1981,UIN0049,Jaipur,Rajasthan,302001,4100,N
+Dev,12-10-1981,UIN0050,Lucknow,Uttar Pradesh,226001,7350,N
+Divya,03-04-1982,UIN0051,Bhopal,Madhya Pradesh,462001,3530,N
+Gaurav,23-09-1982,UIN0052,Bhubaneswar,Odisha,751001,5120,N
+Isha,15-03-1983,UIN0053,Patna,Bihar,800001,6240,N
+Karan,04-09-1983,UIN0054,Mumbai,Maharashtra,400001,7010,N
+Kavita,24-02-1984,UIN0055,Pune,Maharashtra,411001,7420,N
+Kiran,15-08-1984,UIN0056,Nagpur,Maharashtra,440001,7810,N
+Manish,04-02-1985,UIN0057,Nashik,Maharashtra,422001,8200,N
+Meera,27-07-1985,UIN0058,Ahmedabad,Gujarat,380001,6890,Y
+Mohit,16-01-1986,UIN0059,Surat,Gujarat,395001,4100,N
+Neha,08-07-1986,UIN0060,Vadodara,Gujarat,390001,7350,N
